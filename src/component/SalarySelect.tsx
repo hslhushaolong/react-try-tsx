@@ -1,6 +1,5 @@
 import React from "react";
 import { Button, Select } from 'antd';
-
 const Option = Select.Option;
 export interface AvatarProps {
     value: string;
